@@ -35,25 +35,7 @@
         "footer_custom": "",
         "html_before": ""
       },
-      "components": [
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "{JS_CODE_0}\n<div class=\"ww-reset ww-reviews-widget\" id=\"ww-widget-reviews\">\n<div class=\"ww-reviews-placeholder\">\nRead all of our wedding reviews on our\n<a target=\"_blank\" href=\"https://www.weddingwire.com/biz/viva-event-djs-and-bartenders-san-diego/4cd0f81d4929e63a.html\">Viva Event DJ's and Bartenders</a>\nStorefront at\n<a alt=\"WeddingWire\" href=\"https://www.weddingwire.com\"><img src=\"https://www.weddingwire.com/assets/widgets/logo/WWlogo-83x19.gif\" alt=\"Wwlogo 83x19\">\n</a></div>\n</div>\n{JS_CODE_1}\n",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-0",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script src='https://www.weddingwire.com/assets/vendor/widgets/my-reviews.js' type='application/javascript'></script>",
-            "<script>\n  WeddingWire.createReview({\"vendorId\":\"4cd0f81d4929e63a\", \"id\":\"ww-widget-reviews\" });\n</script>"
-          ]
-        }
-      ]
+      "components": []
     }
   }
 }
